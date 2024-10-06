@@ -44,10 +44,10 @@ robust security.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
-### **Security Compliance, Regulations and Standards✅📋**
+### **Security Compliance, Regulations, and Standards✅📋**
 - GDPR, PCI-DSS, ISO 27001, ISO 27701
 - OWASP Top 10, SANS 25, MITRE ATT&CK
-- Threat Modelling - OWASP Threat Dragon : STRIDE
+- Threat Modelling - OWASP Threat Dragon: STRIDE
 
 ---
 
@@ -55,7 +55,7 @@ robust security.
 - **Security Leadership**: Launched and maintained single-handedly a **Responsible Vulnerability Disclosure Program (RVDP)** at UpGrad, using HackerOne platform. 
 - **Vulnerability Management**: Managed vulnerability assessments and penetration tests across Web, Mobile, and API platforms.
 - **Compliance Leader**: Spearheaded **GDPR**, **PCI-DSS**, **ISO 27001** compliance.
-- **Regression Time Reduction**: Reduced regression testing time from 3 days to 21 minutes. Boosted Efficiency of existing test suite’s execution time by nearly 65% through optimization.
+- **Regression Time Reduction**: Reduced regression testing time from 3 days to 21 minutes. Boosted the Efficiency of the existing test suite’s execution time by nearly 65% through optimization.
 
 ---
 <!-- ## 📊 Stats
@@ -67,7 +67,7 @@ robust security.
 ## 💼 Work Experience
 
 ### **Team Lead - Technology** | UpGrad Education Private Limited (Jul '22 - Sept '24)
-- Slashed Regression Time from 3 Man Days to 21 minutes using Selenium, Java, and BDD Framework. Boosted Efficiency of test suite’s execution
+- Slashed Regression Time from 3 Man Days to 21 minutes using Selenium, Java, and BDD Framework. Boosted the Efficiency of the test suite’s execution
 time by nearly 65%. Awarded Most Valuable Player for consecutive quarters.
 - Executed in-depth penetration testing across Web, Mobile, and API platforms to uncover and address vulnerabilities.
 - Launched and owned a Responsible Vulnerability Disclosure Program (RVDP) via the HackerOne Platform, managed under “upgrad.com/report-avulnerability.”
@@ -101,7 +101,7 @@ Led comprehensive ad campaign creative testing, ensuring enhanced campaign relia
 
 ### **Sr. QA Engineer** | Zepo.in (Sep '13 - Aug '15)
 Directed comprehensive functional testing (planning, browser compatibility, load, SQL database, and performance testing), facilitated cross-functional
-sprint planning and issue resolution, managed GA releases, and ensured seamless stakeholder updates.
+sprint planning and issue resolution managed GA releases and ensured seamless stakeholder updates.
 
 ### **Test Engineer** | FusionCharts (Dec '11 - Sep '13)
 Led comprehensive QA for Collabion Charts for SharePoint, ensuring functionality across SharePoint versions with detailed test plans. Utilized Agile
@@ -110,9 +110,8 @@ methodologies, Atlassian JIRA, VMware, and IIS for efficient project delivery an
 ---
 
 ## 🎖️ Honors and Awards
-- **Most Valuable Player** at UpGrad (AMJ and JAS - 2023)
-- **Top 15 Researchers** by the National Critical Information Infrastructure Protection Centre (NCIIPC), Govt of India
-- Featured in **Halls of Fame** for OpenText, BASF, Telecom Italia, Eventbrite, Zerodha, Tidepool, Electro Rent Corporation, and more.
+- Enlisted in **Top 15 Researchers** by the [National Critical Information Infrastructure Protection Centre (NCIIPC)](https://nciipc.gov.in/documents/NCIIPC_Newsletter_Jan21.pdf), Govt of India.
+- Recognized in **Hall of Fames** and **Acknowledgments** by [OpenText](https://www.opentext.com/about/security-acknowledgements), [BASF](https://www.basf.com/global/en/legal/responsible-disclosure-statement#item-1706692396480-1932182967), [Telecom Italia](https://www.gruppotim.it/it/footer/responsible-disclosure.html), [Eventbrite](https://www.eventbrite.com/walloffame/), Zerodha, [Tidepool](https://www.linkedin.com/feed/update/urn:li:activity:6731992826923507712), [InStaff](https://instaff.org/responsible-disclosure-policy/) and many others. 
 
 ---
 
