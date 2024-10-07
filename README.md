@@ -61,11 +61,12 @@ robust security.
 - **Regression Time Reduction**: Reduced regression testing time from 3 days to 21 minutes. Boosted the Efficiency of the existing test suite’s execution time by nearly 65% through optimization.
 
 ---
-<!-- ## 📊 Stats
+
+## 📊 Stats
 [![Nirjhar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nirjharb&show_icons=true&theme=gruvbox#gh-dark-mode-only)](https://github.com/nirjharb/github-readme-stats#gh-dark-mode-only)
 [![Nirjhar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nirjharb&show_icons=true&theme=gruvbox#gh-light-mode-only)](https://github.com/nirjharb/github-readme-stats#gh-light-mode-only)
 
---- -->
+--- 
 
 ## 💼 Work Experience
 
