@@ -92,7 +92,7 @@ concerns with clear mitigation steps.
 - Coordinated with vendors for timely security testing results and conducted internal Vulnerability Assessment and Penetration Testing (VAPT) to
 proactively address security issues.
 
-### **Lead - QA** | UpGrad Education Private Limited (Sep '18 - Mar '21)
+### **Lead - QA** | Bridgetree (Sep '18 - Mar '21)
 - Implemented an automated smoke testing suite using Selenium, Java, and BDD framework, drastically reducing QA time post-production release.
 - Crafted comprehensive test plans, integrated automation and performance strategies, and led a QA team of 3 with mentorship, coordination, and
 cross-functional collaboration.
