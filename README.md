@@ -48,9 +48,9 @@ robust security.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ### **Security Compliance, Regulations, and Standards✅📋**
-- GDPR, PCI-DSS, ISO 27001, ISO 27701
+- GDPR, PCI-DSS, ISO 27001, ISO 27701, ISO/SAE 21434, TISAX
 - OWASP Top 10, SANS 25, MITRE ATT&CK
-- Threat Modelling - OWASP Threat Dragon: STRIDE
+- Threat Modelling - OWASP Threat Dragon: STRIDE, TARA
 
 ---
 
