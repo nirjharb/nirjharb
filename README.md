@@ -70,7 +70,7 @@ robust security.
 
 ## 💼 Work Experience
 
-### **Lead Engineer - Cybersecurity** | Sasken Technologies Limited | Client: Aptiv Components India Pvt. Ltd. (Nov '24 - Present)
+### **Lead Engineer - Cybersecurity** | Sasken Technologies Limited | Client: APTIV (Nov '24 - Present)
 - Driving TARA Assessments for In-Vehicle Infotainment, Instrument Cluster, Radar & Surround View Camera.
 - Hands-on Cybersecurity Concepts and Security Requirements with detailed Case and Relevance Documentation Using Polarion.
 - Securing Automotive Systems through rigorous analysis, design & verification.
