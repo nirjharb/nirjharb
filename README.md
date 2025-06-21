@@ -1,7 +1,7 @@
 # 👨‍💻 Nirjhar Banik  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/neerjhar) [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:banik.nirjhar@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=nirjharb&style=for-the-badge)
 <code>Security Tester | QA Specialist</code> 
 
-A seasoned QA Specialist 🧪🔍 with 12+ years of experience and a Certified Ethical Hacker🕵️‍♂️💻 boasting over 5 years of expertise in Security Testing. My mission 🎯? To build secure, high-quality software through innovative automation and cutting-edge security testing techniques.
+A seasoned QA Specialist 🧪🔍 with 12+ years of experience and a Certified Ethical Hacker🕵️‍♂️💻 boasting over 6 years of expertise in Security Testing. My mission 🎯? To build secure, high-quality software through innovative automation and cutting-edge security testing techniques.
 
 Based in Kolkata, India 🌍, I thrive on solving the toughest challenges in cybersecurity and software testing. Whether it’s reducing manual effort from days to minutes or embedding bulletproof security practices, I am committed to end-to-end delivery that ensures flawless production and rock-solid security compliance🔒🛡️.
 
@@ -13,7 +13,7 @@ Based in Kolkata, India 🌍, I thrive on solving the toughest challenges in cyb
 - **Vulnerability mitigation**: Championing vulnerability management, I empower the engineering team with precise, swift mitigation steps to ensure
 robust security.
 - **Compliance**: Pioneer in “Shift-left security” and drive adherence to industry-standard compliances like ISO 27001, ISO 27701, GDPR, and PCI-DSS.
-- **Reduce manual regression efforts**: Specialize in slashing man-days to minutes through cutting-edge automation.
+- **Reduce manual regression efforts**: Specialise in slashing man-days to minutes through cutting-edge automation.
 
 ---
 
@@ -70,17 +70,25 @@ robust security.
 
 ## 💼 Work Experience
 
+### **Lead Engineer - Cybersecurity** | Sasken Technologies Limited | Client: Aptiv Components India Pvt. Ltd. (Nov '24 - Present)
+- Driving TARA Assessments for In-Vehicle Infotainment, Instrument Cluster, Radar & Surround View Camera.
+- Hands-on Cybersecurity Concepts and Security Requirements with detailed Case and Relevance Documentation Using Polarion.
+- Securing Automotive Systems through rigorous analysis, design & verification.
+- Ensuring Secure Boot, storage, and communication across system and subsystem levels.
+- Performing Threat Modelling & Risk Assessment using EVSec (C2A), aligning with ISO/SAE 21434 & UNECE R155 to fortify automotive cybersecurity.
+- Analysing and providing mitigation steps for different vulnerabilities generated using Blackduck from different SDV components.
+
 ### **Team Lead - Technology** | UpGrad Education Private Limited (Jul '22 - Sept '24)
 - Slashed Regression Time from 3 Man Days to 21 minutes using Selenium, Java, and BDD Framework. Boosted the Efficiency of the test suite’s execution
 time by nearly 65%. Awarded Most Valuable Player for consecutive quarters.
 - Executed in-depth penetration testing across Web, Mobile, and API platforms to uncover and address vulnerabilities.
 - Launched and owned a Responsible Vulnerability Disclosure Program (RVDP) via the HackerOne Platform, managed under “upgrad.com/report-avulnerability.”
-- Spearheaded the organization’s compliance with GDPR, PCI-DSS, ISO 27001, and ISO 27701 standards, and developed comprehensive threat models
+- Spearheaded the organisation’s compliance with GDPR, PCI-DSS, ISO 27001, and ISO 27701 standards, and developed comprehensive threat models
 using OWASP Threat Dragon.
 - Contributed to the deployment of Cloudflare WAF, including drafting policies, defining roles, and establishing rules.
 
 ### **Senior QA Engineer** | QuillBot (Nov '21 - Jun '22)
-- Headed the QA team for the organization’s three flagship products: Paraphraser, Plagiarism Checker, and Grammar Checker.
+- Headed the QA team for the organisation’s three flagship products: Paraphraser, Plagiarism Checker, and Grammar Checker.
 - Conducted penetration testing to identify major P0/P1 vulnerabilities, integrated fixes into production with strategic sprint planning, and introduced
 rate-limiting across all APIs.
 - Delivered monthly security issue demonstrations, recommended developers on mitigating P0 vulnerabilities, and addressed mobile app data leakage
