@@ -71,12 +71,12 @@ robust security.
 ## 💼 Work Experience
 
 ### **Lead Engineer - Cybersecurity** | Sasken Technologies Limited | Client: APTIV (Nov '24 - Present)
-- Driving TARA Assessments for In-Vehicle Infotainment, Instrument Cluster, Radar & Surround View Camera.
-- Hands-on Cybersecurity Concepts and Security Requirements with detailed Case and Relevance Documentation Using Polarion.
-- Securing Automotive Systems through rigorous analysis, design & verification.
-- Ensuring Secure Boot, storage, and communication across system and subsystem levels.
-- Performing Threat Modelling & Risk Assessment using EVSec (C2A), aligning with ISO/SAE 21434 & UNECE R155 to fortify automotive cybersecurity.
-- Analysing and providing mitigation steps for different vulnerabilities generated using Blackduck from different SDV components.
+- Spearheading TARA Assessments for In-Vehicle Infotainment, Instrument Cluster, Radar & Surround View Camera.
+- Driving Cybersecurity Excellence by actively applying and delivering critical security concepts and requirements, backed by detailed case studies and comprehensive documentation using Polarion.
+- Fortifying Automotive Systems through meticulous analysis, innovative design, and rigorous verification.
+- Ensuring Robust Security for boot processes, data storage, and communication across both system and subsystem levels.
+- Conducting Advanced Threat Modelling and Risk Assessment using EVSec (C2A), in full compliance with ISO/SAE 21434 and UNECE R155, to strengthen automotive cybersecurity frameworks.
+- Identifying and Mitigating Vulnerabilities in SDV components using Blackduck, providing strategic solutions to secure critical automotive infrastructure.
 
 ### **Team Lead - Technology** | UpGrad Education Private Limited (Jul '22 - Sept '24)
 - Slashed Regression Time from 3 Man Days to 21 minutes using Selenium, Java, and BDD Framework. Boosted the Efficiency of the test suite’s execution
